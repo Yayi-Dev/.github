@@ -1,7 +1,8 @@
- <img width="500" alt="yayi dev logo" src="https://raw.githubusercontent.com/Yayi-Dev/.github/main/assets/imgs/logo.png">
+ <img width="500"  alt="yayi dev logo" src="https://raw.githubusercontent.com/Yayi-Dev/.github/main/assets/imgs/logo.png">
 
 ![YAYI.DEV](https://img.shields.io/badge/YAYI.DEV-Building%20the%20Future-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen?style=for-the-badge)
+<br/>
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Welcome to **YAYI.DEV** — a software development company focused on delivering high-quality, scalable, and secure digital solutions.
